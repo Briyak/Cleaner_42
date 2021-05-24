@@ -23,17 +23,3 @@
 
 1. First : Run this command `cclean update`
 2. Last  : Enjoy ;)
-
-## Screenshots
-
-<img src="https://github.com/su-omb/Cleaner_42/blob/master/cclean.png" width="800" />
-<img src="https://github.com/su-omb/Cleaner_42/blob/master/cclean_update.png" width="800" />
-
-
-## Note : 
-
-Please, report any bug happening with you while installing or running the command
-
-Contact me on slack **@OMBHD** or post an issue here on Github
-
-42login : obouykou
